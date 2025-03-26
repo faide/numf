@@ -1,0 +1,7 @@
+[package]
+name = "numf"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["the Redner team"]
+license = "MIT"
+description = "number formatting with mustache support"
